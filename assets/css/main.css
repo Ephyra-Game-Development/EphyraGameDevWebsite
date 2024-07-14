@@ -1979,6 +1979,24 @@ input, select, textarea {
 					background: #df93b8;
 				}
 
+			.icon.circle.fa-briefcase {
+				background: #8393da;
+				color: #fff;
+			}
+
+				.icon.circle.fa-envelope:hover {
+					background:rgb(147, 177, 223)8;
+				}
+			
+			.icon.circle.fa-linkedin-in {
+				background: #8393da;
+				color: #fff;
+			}
+
+				.icon.circle.fa-linkedin-in:hover {
+					background:rgb(147, 177, 223)8;
+				}
+
 		.icon.featured {
 			cursor: default;
 			display: block;
